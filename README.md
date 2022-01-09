@@ -6,7 +6,9 @@ __If you want to receive communication about any updates to this tool in the fut
 
 ## A quick example video of using the lecture hall
 
-<a href="https://www.youtube.com/watch?v=t7uTLH9DON8"><img src="images/video_tutorials/lecture_video_thumb.jpg" width="700" /></a>
+A crash course in 8 minutes.
+
+<a href="https://www.youtube.com/watch?v=t7uTLH9DON8" target="_blank"><img src="images/video_tutorials/lecture_video_thumb.jpg" width="700" /></a>
 
 ## Getting Started
 
