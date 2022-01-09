@@ -32,16 +32,17 @@ __Step 5: Now explore your new virtual classroom.__. That's it! Your classroom i
 
 <img src="images/setup/screen_3_mainmenu.jpg" width="700" />
 
-## Using the Auditorium
+## Giving Lectures: Using the Main Lecture Hall
 
-Coming soon...
+For now, please watch [this Youtube video](https://www.youtube.com/watch?v=t7uTLH9DON8).  More information coming soon....
 
-## Using your Office
+## Holding Office Hours: How to Use Your Office 
 
-Coming soon...
+By default all offices in the space support screen sharing for all participants (not just staff), contain a waiting list for students to sign up to "get in line" for help, a question board, and the ability to move students to a private version of the office for one-on-one instructor-student communication.  The latter is very useful when a student needs to talk about the specifics of their work out of ear shot of other students sitting in your virtual office.
 
-## Adding additional staff
+More docs coming soon...
 
-Coming soon...
+## Securing Your Classroom Space
 
+By default, when you create a new classroom space, access control is off.  Anyone with the URL of the space will be able to access it.  You can secure your classroom space in a number of ways: password-protect the space (like a Zoom call), use SSO-based sign on from your university (This is how I operate at Stanford), or explicitly provide a "allow list" of email addresses that can access the space. Details coming soon.
 
