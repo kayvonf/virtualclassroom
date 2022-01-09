@@ -4,6 +4,10 @@ This is a 24-7 "always on" [ohyay-based](https://ohyay.co) virtual classroom tha
 
 __If you want to receive communication about any updates to this tool in the future, please sign up [here](https://forms.gle/A8S8xJNQBtXeFaTZ9).__
 
+## A quick example video of using the lecture hall
+
+<a href="https://www.youtube.com/watch?v=t7uTLH9DON8"><img src="images/video_tutorials/lecture_video_thumb.jpg" width="700" /></a>
+
 ## Getting Started
 
 __Step 1.__ Create yourself a copy of the ohyay classroom, go the [project page](https://ohyay.co/space_gallery?itemId=ws_VQopSi1J) in the ohyay workspace gallery and press the "Explore" button.
