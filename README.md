@@ -1,6 +1,6 @@
 # virtualclassroom
 
-Kayvon's ohyay-based virtual classroom is a 24-7 "always on" virtual classroom space that supports synchronous live lecture to up to 500 students, small student working groups (e.g., for breakouts or flipped classroom settings), and office hours.
+This is a 24-7 "always on" [ohyay-based](https://ohyay.co) virtual classroom that supports synchronous live lecture to up to 500 students, small student working groups (e.g., for breakouts or flipped classroom settings), and office hours.  Please contact me (Kayvon Fatahalian) if you have additional questions.
 
 __If you want to receive communication about any updates to this tool in the future, please sign up [here](https://forms.gle/A8S8xJNQBtXeFaTZ9).__
 
