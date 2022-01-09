@@ -8,13 +8,19 @@ Kayvon's ohyay-based virtual classroom is a 24-7 "always on" virtual classroom s
 
 <img src="images/setup/explore_screen.jpg" width="700" />
 
-2. The classroom is now live! If you enter the site, you'll be on the main page that looks like this:
+2. The classroom is now live! If you enter the site, you'll be on the main page, which links to a number of other rooms, such as your virtual lecture hall.
 
-3. __Go to the class configuration panel.__ If you look in the top left corner of the main menu, you'll see a red button labeled "Class Config" that will take you to the site's configuation pages.  Enter basic information about your course (the course's name, provide a vanity url that you can provide your students and course staff, etc.).  
+3. __Go to the class configuration panel.__ If you look in the top left corner of the main menu, you'll see a red button labeled "Class Config" that will take you to the site's configuation pages.  Enter basic information about your course (the course's name, provide a vanity url that you can provide your students and course staff, etc.).  For example here's me setting up a course called "Introduction to Computer Graphics" and giving the space the URL `https://ohyay.co/s/my-great-course`.  
 
-5. __Create yourself an office.__. Click the "Office Hours" tab in the configuration panel.  Give your office a name, choose a template for what you'd like your office to look like, and click the "Create New Office".  You now have an office!
+<img src="images/setup/screen_1_basics.jpg" width="700" />
 
-6. __Explore your new virtual classroom.__. That's it! Your classroom is now live!
+5. __Create yourself an office.__. Click the "Office Hours" tab in the configuration panel.  Give your office a name, and choose a template for what you'd like your office to look like. Below, I decided to have my office hours in Paris.  Click "Create New Office", and now you have a virtual office!  
+
+<img src="images/setup/screen_2_office.jpg" width="700" />
+
+6. __Explore your new virtual classroom.__. That's it! Your classroom is now live!  Notice that links to key rooms, like the main menu, the lecture hall, and now your office appear in the left navigation bar.  Those links will be there for easy navigation at all times.  Now head back to the main menu. Your main menu should look something like this.
+
+<img src="images/setup/screen_3_mainmenu.jpg" width="700" />
 
 ## Using the Auditorium
 
