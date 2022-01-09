@@ -4,9 +4,10 @@ This is a 24-7 "always on" [ohyay-based](https://ohyay.co) virtual classroom tha
 
 __If you want to receive communication about any updates to this tool in the future, please sign up [here](https://forms.gle/A8S8xJNQBtXeFaTZ9).__
 
+
 ## A quick example video of using the lecture hall
 
-A crash course in 8 minutes.
+Read this [blog post](https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/) explaining the basic components, or watch this eight-minute crash course video.
 
 <a href="https://www.youtube.com/watch?v=t7uTLH9DON8" target="_blank"><img src="images/video_tutorials/lecture_video_thumb.jpg" width="700" /></a>
 
