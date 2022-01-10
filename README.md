@@ -51,5 +51,24 @@ Watch the tutorial video below for a quick demo:
   
 ## Securing Your Classroom Space
 
-By default, when you create a new classroom space, access control is off.  Anyone with the URL of the space will be able to access it.  You can secure your classroom space in a number of ways: password-protect the space (like a Zoom call), use SSO-based sign on from your university (This is how I operate at Stanford), or explicitly provide a "allow list" of email addresses that can access the space. Details coming soon.
+By default, when you create a new classroom space, access control is off.  Anyone with the URL of the space will be able to access it.  
+
+You can secure your classroom space in a number of ways: 
+ * Password-protect the space (like a Zoom call)
+ * Use SSO-based sign on from your university (This is how I operate at Stanford)
+ * Explicitly provide a "allow list" of email addresses that can access the space. 
+
+You'll need to use the ohyay workspace editor to set your security settings. Please see ohyay's documentation of [security settings here](https://docs.ohyay.co/docs/password).
+
+## FAQ
+
+#### Question 1: Can I record lectures?
+
+Yes.  You can record any room in the space.  Ohyay provides the recorded video as an MP4 that you can upload to regular courseware sites like Canvas or Panopto.  However, there is no support for direct transfer of the video data.  You'll need to download the video file from your ohyay virtual classroom, then upload it to Canvas or Panopto to share with students.
+
+#### Question 2: How many students can be in class at once?
+
+Each instance of an ohyay workspace should be able to support 400-500 active users.
+
+
 
