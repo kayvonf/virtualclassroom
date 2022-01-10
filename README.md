@@ -11,6 +11,12 @@ Read this [blog post](https://graphics.stanford.edu/~kayvonf/notes/virtualteachi
 
 <a href="https://www.youtube.com/watch?v=t7uTLH9DON8" target="_blank"><img src="images/video_tutorials/lecture_video_thumb.jpg" width="700" /></a>
 
+Testing.
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t7uTLH9DON8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+  
 ## Getting Started
 
 __Step 1.__ Create yourself a copy of the ohyay classroom, go the [project page](https://ohyay.co/space_gallery?itemId=ws_VQopSi1J) in the ohyay workspace gallery and press the "Explore" button.
