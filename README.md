@@ -9,12 +9,8 @@ __If you want to receive communication about any updates to this tool in the fut
 
 Read this [blog post](https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/) explaining the basic components, or watch this eight-minute crash course video.
 
-<a href="https://www.youtube.com/watch?v=t7uTLH9DON8" target="_blank"><img src="images/video_tutorials/lecture_video_thumb.jpg" width="700" /></a>
-
-Testing.
-
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t7uTLH9DON8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/t7uTLH9DON8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
   
 ## Getting Started
