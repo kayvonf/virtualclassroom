@@ -1,6 +1,6 @@
 # virtualclassroom
 
-This is a 24-7 "always on" [ohyay-based](https://ohyay.co) virtual classroom that supports synchronous live lecture to up to 500 students, small student working groups (e.g., for breakouts or flipped classroom settings), and office hours.  Please contact me (Kayvon Fatahalian) if you have additional questions.
+"Kayvon's Virtual Classroom" is an always-on, [ohyay-based](https://ohyay.co) virtual classroom kit that supports synchronous live lecture to up to 500 students (with recording), small student working groups (e.g., for breakouts or flipped classroom settings), and office hours.  The classroom experience is completely customizable, so you can modify the appearance of the UI or extend its functionality to meet your class' needs.  I have used this classroom to teach a number of courses at Stanford since Fall 2020. Please contact me (Kayvon Fatahalian) if you have additional questions.  
 
 __If you want to receive communication about any updates to this tool in the future, please sign up [here](https://forms.gle/A8S8xJNQBtXeFaTZ9).__
 
