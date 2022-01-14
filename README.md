@@ -62,15 +62,23 @@ You can secure your classroom space in a number of ways:
  * Use SSO-based sign on from your university (This is how I operate at Stanford)
  * Explicitly provide a "allow list" of email addresses that can access the space. 
 
-You'll need to use the ohyay workspace editor to set your security settings. Please see ohyay's documentation of [security settings here](https://docs.ohyay.co/docs/password).
+Unfortunately, I haven't implemented easy to use configuration panels for this.  You'll have to step into ohyay's workspace editor mode and change the security settings for the workspace yourself. (It only takes a few clicks, but please see ohyay's documentation of [security settings here](https://docs.ohyay.co/docs/password) for details of how to do it.
 
 ## FAQ
 
-#### Question 1: Can I record lectures?
+#### Can I record lectures, and how do I obtain a copy of the recorded video for students to view offline?
 
-Yes.  You can record any room in the space.  Ohyay provides the recorded video as an MP4 that you can upload to regular courseware sites like Canvas or Panopto.  However, there is no support for direct transfer of the video data.  You'll need to download the video file from your ohyay virtual classroom, then upload it to Canvas or Panopto to share with students.
+Yes. You can record any room in the classroom space.  Ohyay provides the recorded video as an MP4 that you can upload to regular courseware sites like Canvas or Panopto.  However, there is no support for direct transfer of the video data.  You'll need to download the video file from your ohyay virtual classroom, then upload it to Canvas or Panopto to share with students.
 
-#### Question 2: How many students can be in class at once?
+#### What mechanisms are present avoiding inappropriate behavior?
+
+There are a number of mechanisms
+ * First, secure your space using a password or SSO authorization to limit access to only individuals in your organization.
+ * At any time you can ban users from the workspace.  Just right click on their video (if they are on screen), or right click name in the left menu bar and select "ban user" from the pop up menu.
+ * Clearing the lecture hall chat and question board is available via a single click in the "presenter tools" menu in the lecture hall.
+ * Emoji reactions are displayed on screen anonymously (without attribution) to get students the ability to provide feedback without embarrassment.  But the configuration panel ("Advanced" tab) you can turn on logging of all emojis.  This option is OFF by default, but turning it on lets an instructor inspect the logs in case of inappropriate use of reaction emojis during class.  If you turn this option on, I recommend that you explicitly inform students that reactions are logged and could be attributed to them in the event someone audits the logs, since the rendering of reaction emoji's provides the sense that they are completely anonymous.
+  
+#### How many students can be in the classroom space at once?
 
 Each instance of an ohyay workspace should be able to support 400-500 active users.
 
