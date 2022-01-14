@@ -95,7 +95,7 @@ __By all means go for it!  These aspects of the space are arguably the biggest d
 
 There are two warnings I'd like to give instructors thinking about using this virtual classroom space.
   
-__CHECK YOUR SCREENSHARE SETUP AS THE FIRST THING YOU DO:__
+__Kayvon's advice #1: Check your screenshare setup as the first thing you do.__
 
 My advice for prospective users is that the first thing you should do is go to the "lecture hall" and share your screen and see if the experience meets your needs.  Unlike Zoom or other native video conference apps, you won't see the ohyay browser window overlayed on top of your presentation mode slides.  To see your slides and also see the ohyay window at the same time, you'll to:
   * Set yourself up to present with multiple monitors
@@ -107,7 +107,7 @@ If you play videos in your slides that contain audio, you will need to take step
   * On Windows ohyay cna screenshare with audio if the presenter shares their full screen.
   * __ohyay cannot directly screenshare native app audio on OSX due to OSX security rules.__  On OSX it is possible to share native app audio by installing virtual audio devices like [Loopback](https://rogueamoeba.com/loopback/), but you will need to set this up in advance.  Alternative paths include 
 
-__OHYAY DOES NOT WORK GREAT ON MOBILE DEVICES:__
+__Kayvon's advice #2: Be aware that ohyay does not work great on mobile devices.__
 
 One limitation of ohyay in Jan 2022 is that support for mobile devices is not great. Students should expect to attend class/office hours etc on a laptop/desktop computer. If accessibility via mobile phone is necessary for your class, my virtual classroom space is probably not a good solution for you at this time. 
 
