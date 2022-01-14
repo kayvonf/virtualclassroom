@@ -39,7 +39,7 @@ __Step 5: Now explore your new virtual classroom.__. That's it! Your classroom i
 
 Here's a video demonstrating the basic functionality of the lecture hall.
 
-<p align="center">
+<p align="left">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/t7uTLH9DON8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
@@ -49,7 +49,7 @@ Here's a video demonstrating the basic functionality of your virtual office, and
 
 Watch the tutorial video below for a quick demo:
 
-<p align="center">
+<p align="left">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/HoCbsnVO_f4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
   
