@@ -37,7 +37,11 @@ __Step 5: Now explore your new virtual classroom.__. That's it! Your classroom i
 
 ## Giving Lectures: Using the Main Lecture Hall
 
-For now, please watch [this Youtube video](https://www.youtube.com/watch?v=t7uTLH9DON8).  More information coming soon....
+Here's a video demonstrating the basic functionality of the lecture hall.
+
+<p align="center">
+<iframe width="720" height="405" src="https://www.youtube.com/embed/t7uTLH9DON8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Holding Office Hours: How to Use Your Office 
 
