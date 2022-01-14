@@ -87,9 +87,34 @@ There are a number of mechanisms:
  * Emoji reactions are displayed on screen anonymously (without attribution) to get students the ability to provide feedback without embarrassment.  But the configuration panel ("Advanced" tab) you can turn on logging of all emojis.  This option is OFF by default, but turning it on lets an instructor inspect the logs in case of inappropriate use of reaction emojis during class.  If you turn this option on, I recommend that you explicitly inform students that reactions are logged and could be attributed to them in the event someone audits the logs, since the rendering of reaction emoji's provides the sense that they are completely anonymous.
  * You can configure the space to limit reactions to a specific set of reaction emojis or, if you want to let students to be able to choose custom emojis (high recommended!) you can prevent posting of certain emojis.
   
+### What are the main gotcha's I should be aware of when considering whether to use this?
+
+There are two warnings I'd like to give instructors thinking about using this virtual classroom space.
+  
+__CHECK YOUR SCREENSHARE SETUP AS THE FIRST THING YOU DO:__
+
+My advice for prospective users is that the first thing you should do is go to the "lecture hall" and share your screen and see if the experience meets your needs.  Unlike Zoom or other native video conference apps, you won't see the ohyay browser window overlayed on top of your presentation mode slides.  To see your slides and also see the ohyay window at the same time, you'll to:
+  * Set yourself up to present with multiple monitors
+  * On a single monitor setup, use "present in window" so that both the ohyay browser window and your presentation are on screen at once. In these situations I like to use my iPhone or iPad to advance my slides. Even in a single monitor case, I personally love this setup and prefer it to Zoom, but it may take some getting used to for non-Zoom users
+  * Instructors that are used to drawing on an ipad and screencasting to Zoom (e.g, whiteboard-centric math lectures), you'll make sure you can share this additional screen.
+
+If you play videos in your slides that contain audio, you will need to take steps to make sure your audio is correctly shared.
+  * On all platforms, Ohyay can share the presenter's screenshare audio if they screen share a browser tab (e.g., playing a youtube video, or using Google slides)
+  * On Windows ohyay cna screenshare with audio if the presenter shares their full screen.
+  * __ohyay cannot directly screenshare native app audio on OSX due to OSX security rules.__  On OSX it is possible to share native app audio by installing virtual audio devices like [Loopback](https://rogueamoeba.com/loopback/), but you will need to set this up in advance.  Alternative paths include 
+
+__OHYAY DOES NOT WORK GREAT ON MOBILE DEVICES:__
+
+One limitation of ohyay in Jan 2022 is that support for mobile devices is not great. Students should expect to attend class/office hours etc on a laptop/desktop computer. If accessibility via mobile phone is necessary for your class, my virtual classroom space is probably not a good solution for you at this time. 
+
 ### How many students can be in the classroom space at once?
 
 Each instance of an ohyay workspace should be able to support 400-500 active users.
 
+### How robust is this thing?
+
+I personally have used variants of this classroom space in four courses during my teaching at Stanford for four quarters now, and have not seen a significant failure that prevented lecture for carrying on.  Most problems that occur are related to students or staff using unsupported browsers.   
+
+However, this classroom is created by me, and instructors should treat this as open source courseware that they should use at their down discretion.  I'll do my best to fix bugs and answer questions by folks that are trying to use it in their classes.
 
 
