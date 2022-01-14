@@ -87,9 +87,9 @@ There are a number of mechanisms:
  * Emoji reactions are displayed on screen anonymously (without attribution) to get students the ability to provide feedback without embarrassment.  But the configuration panel ("Advanced" tab) you can turn on logging of all emojis.  This option is OFF by default, but turning it on lets an instructor inspect the logs in case of inappropriate use of reaction emojis during class.  If you turn this option on, I recommend that you explicitly inform students that reactions are logged and could be attributed to them in the event someone audits the logs, since the rendering of reaction emoji's provides the sense that they are completely anonymous.
  * You can configure the space to limit reactions to a specific set of reaction emojis or, if you want to let students to be able to choose custom emojis (high recommended!) you can prevent posting of certain emojis.
   
-### I'll probably stick with Zoom for lecture for simplicity, but can I use this space for office hours? 
+### I'll probably stick with Zoom for lectures for simplicity, but can I use this space for office hours and group work? 
 
-Of course!  I know a lot of folks that have mentioned that for various reasons (already have a teaching flow that they don't have time to adjust, school limitations on what software can be used, convenience of Zoom-Panopto integration, mobile support, just don't want to risk it, etc.) they want to keep lectures in Zoom, but really want the 24-7 class space for office hours and/or student working sessions.  __By all means go for it!  These aspects of the space are arguably the biggest differentiators.__  
+__By all means go for it!  These aspects of the space are arguably the biggest differentiators.__  I know a lot of folks that have mentioned that for various reasons (already have a teaching flow that they don't have time to adjust on short notice, school limitations on what software can be used in classroom settings, convenience of Zoom-Panopto integration, mobile support, etc.) they want to keep giving their lectures in Zoom.  But they really want the 24-7 class space for office hours and/or student working sessions. No problem at all... it's yours to do what you want with.
   
 ### What are the main gotcha's I should be aware of when considering whether to use this?
 
