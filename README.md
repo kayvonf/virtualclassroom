@@ -117,7 +117,7 @@ Each instance of an ohyay workspace should be able to support 400-500 active use
 
 ### How robust is this thing?
 
-I personally have used variants of this classroom space during my teaching at Stanford for over four quarters now (100+ lectures), and have not seen a significant failure that prevented lecture for carrying on. Most problems that have occured (such as a students mic/camera not working) are related to students or staff using unsupported browsers. Ohyay also has convenient mechanisms in the app for anyone to "call for help" at any time, and during the work day the ohyay team is quite responsive in helping users resolve any issues. In general, ohyay itself has been used for many mission-critical virtual events well beyond educational/classroom use cases.
+I personally have used variants of this classroom space during my teaching at Stanford for over four quarters now (100+ lectures), and have not seen a significant failure that prevented lecture from carrying on. Most problems that have occured (such as a students mic/camera not working) are related to students or staff using unsupported browsers. Ohyay also has convenient mechanisms in the app for anyone to "call for help" at any time, and during the work day the ohyay team is quite responsive in helping users resolve issues. In general, the ohyay platform itself has been used for many mission-critical virtual events well beyond educational/classroom use cases.
 
 However, this virtual classroom template is created by me, and instructors should treat this as open source courseware that they choose to use at their down discretion.  I'll do my best to fix bugs and answer questions by folks that are trying to use it in their classes.
 
