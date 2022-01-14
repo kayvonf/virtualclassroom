@@ -66,6 +66,12 @@ Unfortunately, I haven't implemented easy to use configuration panels for this. 
 
 ## FAQ
 
+### Is it free?
+
+Yes. This virtual classroom was created by me (Kayvon Fatahalian) and it is built on a platform called [ohyay](https://ohyay.co/).  The virtual classroom itself is "open source" in that anyone that creates a copy for their use has full access to edit the implementation of the space using the ohyay workspace editor.  Ohyay itself is a proprietary platform that is currently free for use.  At this time, ohyay states that it will remain free for educational use indefinitely.  Please contact ohyay directly if you have further questions about the ohyay platform.  (When you sign up for ohyay you'll be given access to their Discord channels, and the ohyay team is very responsive!)
+
+You can also see ohyay's data privacy policy [here](https://ohyay.co/privacy_policy.html).
+
 ### Can I record lectures? How do I obtain a copy of the recorded video for students to view offline?
 
 Yes. You can record *any room* in the virtual classroom space, and even multiple rooms at once if you want.  Ohyay provides the recorded video as a 1080p MP4 that you can download and then upload to regular courseware sites like Canvas or Panopto.  
